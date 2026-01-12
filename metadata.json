@@ -1,0 +1,5 @@
+{
+  "name": "냉장고 셰프 (Fridge Chef)",
+  "description": "냉장고 속 남은 재료와 식사 시간을 선택하면 맞춤형 레시피 3가지를 추천해주는 인공지능 요리 가이드입니다.",
+  "requestFramePermissions": []
+}
